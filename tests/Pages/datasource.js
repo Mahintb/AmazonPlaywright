@@ -1,0 +1,1 @@
+export const PRODUCT="oneplus nord ce 3"
